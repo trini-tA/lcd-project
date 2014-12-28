@@ -1,0 +1,5 @@
+Based on
+
+http://kurup87.blogspot.fr/2014/09/16x2-lcd-hello-world-using-c-wiringpi.html
+
+gcc -o lcd-test lcd-test.c -lwiringPi -lwiringPiDev
